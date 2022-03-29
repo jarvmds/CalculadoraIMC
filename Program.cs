@@ -20,6 +20,42 @@ namespace CalculadoraIMC
             Console.WriteLine("{0}, your height is {1} and your weight is {2}", nome, altura, peso);
             Console.WriteLine("Your IMC is {0}!!!!", imc);
 
+            if (imc < 17.00)
+            {
+                Console.WriteLine("You're way too under the weight!!");
+            }
+            
+            else if (imc >= 17.00 && imc < 18.50)
+            {
+                Console.WriteLine("You're under the weight!!");
+            }
+
+            else if (imc >= 18.50 && < 25.00)
+            {
+                Console.WriteLine("Your weight is normal!!");
+            }
+
+
+            else if (imc >= 25.00 && <30.00)
+            {
+                Console.WriteLine("You're above the weight!!");
+            }
+
+            else if (imc >= 30.00 && 35.00)
+            {
+                Console.WriteLine("You're in Obesity I");
+            }
+
+            else if (imc >= 35.00 && 40.00)
+            {
+                    Console.WriteLine("You're in Obesity II");
+            }
+
+            else if (imc >= 40.00)
+            {
+                Console.WriteLine("You're in Obesity III");
+            }
+
         }
     }
 }

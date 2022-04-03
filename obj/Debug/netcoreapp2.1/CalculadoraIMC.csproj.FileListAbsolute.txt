@@ -1,0 +1,13 @@
+C:\Users\DELL\CalculadoraIMC\obj\Debug\netcoreapp2.1\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\DELL\CalculadoraIMC\obj\Debug\netcoreapp2.1\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\CalculadoraIMC\obj\Debug\netcoreapp2.1\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\DELL\CalculadoraIMC\obj\Debug\netcoreapp2.1\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\DELL\CalculadoraIMC\obj\Debug\netcoreapp2.1\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\DELL\CalculadoraIMC\bin\Debug\netcoreapp2.1\CalculadoraIMC.deps.json
+C:\Users\DELL\CalculadoraIMC\bin\Debug\netcoreapp2.1\CalculadoraIMC.runtimeconfig.json
+C:\Users\DELL\CalculadoraIMC\bin\Debug\netcoreapp2.1\CalculadoraIMC.runtimeconfig.dev.json
+C:\Users\DELL\CalculadoraIMC\bin\Debug\netcoreapp2.1\CalculadoraIMC.dll
+C:\Users\DELL\CalculadoraIMC\bin\Debug\netcoreapp2.1\CalculadoraIMC.pdb
+C:\Users\DELL\CalculadoraIMC\obj\Debug\netcoreapp2.1\CalculadoraIMC.dll
+C:\Users\DELL\CalculadoraIMC\obj\Debug\netcoreapp2.1\CalculadoraIMC.pdb
+C:\Users\DELL\CalculadoraIMC\obj\Debug\netcoreapp2.1\CalculadoraIMC.genruntimeconfig.cache

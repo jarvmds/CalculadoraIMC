@@ -56,6 +56,18 @@ namespace CalculadoraIMC
                 Console.WriteLine("You're in Obesity III");
             }
 
+            double pesoNormalAcima = 24.99 * (altura * altura);
+            double pesoNormalAbaixo = 18.50 * (altura * altura);
+
+            if(peso <= pesoNormalAbaixo)
+            {
+                Console.WriteLine("You need to gain {0}kg to reach your ideal weight", pesoNormalAbaixo - peso);
+            }
+            else if(peso >= pesoNormalAcima)
+            {
+                Console.WriteLine("You need to lose {0}kg to reach your ideal weight", peso - pesoNormalAcima);
+            }
+
         }
     }
 }

@@ -6,7 +6,10 @@ namespace CalculadoraIMC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What's your name?");
+
+            
+            
+            /*Console.WriteLine("What's your name?");
             string nome = Console.ReadLine();
 
             Console.WriteLine("What's your height? Ex: 1,63");
@@ -66,7 +69,7 @@ namespace CalculadoraIMC
             else if(peso >= pesoNormalAcima)
             {
                 Console.WriteLine("You need to lose {0}kg to reach your ideal weight", peso - pesoNormalAcima);
-            }
+            } */
 
         }
     }
